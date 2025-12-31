@@ -1,0 +1,36 @@
+Official Discord server is https://discord.gg/ch2DVxf2jY.
+
+==== Overveiw ====
+This mod enables localization files to be loaded externally.
+This allows users to easily add their own localizations.
+
+==== Features ====
+ - Loading localization files for languages not supported in vanilla
+ - Exporting localizations
+ 
+==== How to use ====
+1. Download the mod from Steam or tmodloader workshop and enable it.
+2. Place localization files (hjson files).
+The folder that you place localization files is in the same place where tModLoader's Config and other files are stored.  
+  C:\Users\<USERNAME>\Documents\My Games\Terraria\tModLoader\ExternalLocalizer\Localization
+  
+3. Check the following items in the mod configuration.
+ - `Enable localization` is enabled.
+ - The `language key` is set correctly (`ja-JP` for Japanese).
+
+
+With the above settings, localization will load.
+
+If you want to know more about localization files, please refer to https://github.com/tModLoader/tModLoader/wiki/Localization.
+
+For additional details, please refer to https://eva828game.hatenablog.com/entry/tmodloader/external-localizer.
+
+==== Dear mod developer ====
+  You can add localization files for languages not supported by terraria to your mod. You can add them in the usual way as regular localization files. If your ".hjson" file changes to ".hjson.legacy", try changing the extension to ".exhjson".
+
+=== Credits ===
+ - UTF-unknown: https://github.com/CharsetDetector/UTF-unknown
+ - にくまるフォント: http://www.fontna.com/blog/1651/
+ - Noto Serif Japanese : https://fonts.google.com/noto/specimen/Noto+Serif+JP
+
+Developed By eva828

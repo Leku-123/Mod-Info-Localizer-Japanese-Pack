@@ -1,0 +1,36 @@
+Discordサーバ： https://discord.gg/ch2DVxf2jY.
+
+＝＝＝概要＝＝＝
+このモッドは翻訳用ファイルを外部から読み込むことができるようにします。
+これにより、ユーザーがより簡単に独自のローカライズを追加できます。
+
+＝＝＝機能＝＝＝
+・バニラで未対応の言語を含めた翻訳用ファイルの読み込み
+・翻訳用ファイルの書き出し
+ 
+＝＝＝使い方＝＝＝
+1. Steamまたはtmodloaderのワークショップからmodをダウンロードし、有効化してください。
+2. 翻訳用ファイルを用意します。
+独自のhjsonファイルを利用したい場合、以下のディレクトリに配置してください。
+  C:\Users\<USERNAME>\Documents\My Games\Terraria\tModLoader\ExternalLocalizer\Localization
+  
+3. Modのコンフィグにて、
+・ローカライズを有効化`がオンになっていること
+・言語キー`が適切に設定されていること(日本語なら`ja-JP`)
+を確認してください。
+
+上記設定でローカライズが読み込まれます。
+
+ローカライズファイルの詳細は https://github.com/tModLoader/tModLoader/wiki/Localization を参照してください。
+
+その他の情報は https://eva828game.hatenablog.com/entry/tmodloader/external-localizer を参照してください。
+
+＝＝＝Mod開発者の方へ＝＝＝
+Modにterrariaが対応していない言語の翻訳用ファイルを追加することができます。通常の翻訳用ファイルと同じ手順で追加してください。`.hjson`ファイルが`.hjson.legacy`に変更されてしまう場合、`.exhjson`に拡張子を変更することで自動更新を回避できます。
+
+＝＝＝クレジット＝＝＝
+ - UTF-unknown: https://github.com/CharsetDetector/UTF-unknown
+ - にくまるフォント: http://www.fontna.com/blog/1651/
+ - Noto Serif Japanese : https://fonts.google.com/noto/specimen/Noto+Serif+JP
+
+開発：eva828

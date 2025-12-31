@@ -1,0 +1,60 @@
+公式Discordサーバ作りました。[url=https://discord.gg/ch2DVxf2jY]Discord[/url]
+[b]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3401890281]External Localizer Japanese Pack[/url]が公開されました。
+[url=https://github.com/ExternalLocalizer/TMLHonyaku]TMLHonyaku[/url]で公開されているローカライズを簡単に導入できます。
+[/b]
+
+[h2]⚠️ 文字化けについて ⚠️[/h2]
+日本語対応フォントを含まないため、本Mod単体では文字化けが発生します。
+以下のいずれかを併用してください。
+[list]
+  [*]日本語対応フォントに置き換えるMod (例: [url=steamcommunity.com/sharedfiles/filedetails/?id=2581155970]Kanamoji Fonts[/url])
+  [*]日本語対応フォントを含むリソースパック (例: [url=steamcommunity.com/sharedfiles/filedetails/?id=2865024243]TrJpMod[EN] (日本語化パック)[/url])
+[/list]
+
+[h1] 概要 [/h1]
+このモッドは翻訳用ファイルを外部から読み込むことができるようにします。
+これにより、ユーザーがより簡単に独自のローカライズを追加できます。
+
+[h1] 機能 [/h1]
+[list]
+  [*]バニラで未対応の言語を含めた翻訳用ファイルの読み込み
+  [*]翻訳用ファイルの書き出し
+[/list]
+ 
+[h1] 使い方 [/h1]
+1. Steamまたはtmodloaderのワークショップからmodをダウンロードし、有効化してください。
+
+2. 翻訳用ファイルを用意します。
+[url=https://github.com/ExternalLocalizer/TMLHonyaku]公式の翻訳ファイル[/url]を利用する場合、
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3401890281]External Localizer Japanese Pack[/url]を有効化するだけで導入出来ます。
+
+独自のhjsonファイルを利用したい場合、以下のディレクトリに配置してください。
+[code]C:\Users\<USERNAME>\Documents\My Games\Terraria\tModLoader\ExternalLocalizer\Localization[/code]
+hjsonファイルの作成方法ついては[url=github.com/tModLoader/tModLoader/wiki/Localization]tmodloaderのwiki[/url]を確認してください。
+  
+3. Modのコンフィグにて、
+[list]
+  [*]`ローカライズを有効化`がオンになっていること
+  [*]`言語キー`が適切に設定されていること(日本語なら`ja-JP`)
+[/list]
+を確認してください。
+
+以上の設定により、ローカライズが適用されます。
+
+その他の詳しい説明は[url=eva828game.hatenablog.com/entry/tmodloader/external-localizer][tModLoader 1.4.4] ローカライズ・日本語化 / External Localizer[/url]を参照してください。
+
+[h1] Mod開発者の方へ [/h1]
+  Modにterrariaが対応していない言語の翻訳用ファイルを追加することができます。通常の翻訳用ファイルと同じ手順で追加してください。`.hjson`ファイルが`.hjson.legacy`に変更されてしまう場合、`.exhjson`に拡張子を変更することで自動更新を回避できます。
+
+[h1] ChangeLog [/h1]
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2986383249]更新履歴はこちら[/url]
+
+[h1] クレジット [/h1]
+[list]
+  [*]UTF-unknown: https://github.com/CharsetDetector/UTF-unknown
+  [*]にくまるフォント: http://www.fontna.com/blog/1651/
+  [*]Noto Serif Japanese : https://fonts.google.com/noto/specimen/Noto+Serif+JP
+[/list]
+
+[quote=tModLoader]Developed By eva828[/quote]
