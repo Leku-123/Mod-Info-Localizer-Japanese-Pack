@@ -1,0 +1,18 @@
+Make the mod list interface more concise.
+Greatly optimize the opening time of the mod list. The list can be fully displayed in less than a second when there are about 100 mods
+
+How to use:
+- Left click a mod to toggle it
+- If a mod is enabled with config available, right-clicking it will open the config
+- If a mod is disabled, right-clicking it will delete it
+- Middle click a mod to enable all its dependencies
+- Click the new button on the top of the mod list to export a list of enabled mod as text
+
+...And with full configuration support! You can adjust whether to show:
+- The config button (don't worry, you can still right click on the icon to open the config)
+- The steam icon
+- The modpack icon
+- The "mod updated" dot
+- The "no preview build" obsidian skull
+- The mod reference icon
+- The translation mod icon
