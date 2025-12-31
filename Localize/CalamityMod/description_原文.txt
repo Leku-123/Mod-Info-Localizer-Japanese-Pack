@@ -1,0 +1,25 @@
+The Calamity Mod is a vast content mod for Terraria.
+It adds two new difficulty modes, multiple entire biomes, thousands of items, hundreds of weapons, and dozens of bosses.
+The mod also makes hundreds of adjustments to vanilla items, features and mechanics to improve balance, quality of life and overall gameplay consistency.
+
+A more detailed breakdown of the content available in Calamity:
+- 27 bosses and 5 minibosses
+- 100+ enemies
+- 5 town NPCs
+- 5 biomes and many new structures
+- 1 event
+- 1 new playable class (based on Throwing from Terraria 1.3)
+- 1800+ items
+- 700+ weapons
+- 100+ blocks
+- 200+ pieces of furniture
+- 11 ores
+- 2 full difficulty settings above Expert, separate from Master
+- Significant improvements and changes to Master difficulty
+- 50+ changes to vanilla mechanics
+- 30+ new recipes for vanilla items
+- 450+ tweaks and improvements to vanilla items
+- Minor cross-mod support for the Thorium Mod
+
+PLEASE NOTE THAT THIS MOD REQUIRES THE CALAMITY MUSIC MOD.
+You will need to install "Calamity Mod Music" from the Mod Browser or the Steam Workshop.
