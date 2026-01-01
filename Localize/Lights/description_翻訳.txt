@@ -1,0 +1,6 @@
+﻿光と影のエフェクトを追加します。
+ModConfigからいくつかの値を設定できます。
+
+[i:149]クレジット：
+•Gryfu （ポーランド語翻訳）
+•Alino4kaHvoshch & xenofite （ロシア語翻訳）
