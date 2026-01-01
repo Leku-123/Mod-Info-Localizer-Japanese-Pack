@@ -1,0 +1,5 @@
+Better Blending simply modifies the tiles which blend together, primarily blending environmental tiles together to make the world look less disconnected, such as ores blending with stone or ice. Sandstone now also blends with stone, dirt, and grass, to increase the ease of blending for builders, while keeping building blocks untouched to not damage other tile combinations. It also includes an "All-Blend" feature in the mod's config.
+
+[i:149]Credits:
+•Gryfu (Polish translation)
+•Alino4kaHvoshch & xenofite (Russian translation)
