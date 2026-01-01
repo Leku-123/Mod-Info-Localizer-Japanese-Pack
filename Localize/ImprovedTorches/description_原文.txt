@@ -1,0 +1,9 @@
+This mod simply adds an orange tint to normal torches and tiki torches, with their placed tiles and biome torches getting a slight flicker for atmosphere. The flicker can be disabled and brightness edited in the mod's config. 
+
+Unfortunately, due to complicated code stuff the flicker can't be added to the held or dropped torch item.
+Also, there is an extremely unlikely but possible chance for IL conflicts with other mods, so if you're running a mod that IL edits the exact same obscure line of code this one does, it might cause problems.
+
+[i:149]Credits:
+•MutantWafflez (IL editing)
+•Gryfu (Polish translation)
+•Alino4kaHvoshch & xenofite (Russian translation)
