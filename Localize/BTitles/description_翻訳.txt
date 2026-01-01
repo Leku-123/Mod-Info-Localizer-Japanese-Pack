@@ -1,0 +1,53 @@
+﻿＝＝このRPG風のMODは、バイオームに入ると数秒間バイオームの名前を表示します＝＝
+
+以下Modのバイオーム・サブバイオームをサポートしています。
+・Vanilla
+・Brighter Days
+・Thorium
+・Verdant
+・Remnants
+・The Stars Above
+・Calamity
+・Mod of Redemption
+・Spirit Mod
+・Arbour
+・Spooky
+・The Depths
+・Confection Rebaked
+・Starlight River
+・Bob Blender
+・Aequus
+・Friends, Furniture and Fun
+・Calamity Infernum
+・Rothur Mod
+・Everjade
+・Awakened Light
+・Spirit Reforged
+・Lunar Veil
+・Rise of Ages
+・Valhalla Mod
+・Polarities
+
+アップデートやお知らせはDiscordで確認できます: https://discord.gg/te6MPuWbtD
+
+ソースコードとガイドはこちら: https://github.com/d-Dice/BTitles-1.4.3/tree/1.4.4
+
+特別感謝:
+・Blooming Dragon - リワーク＆ロシア語翻訳
+・CoreInnocenti & MAScherteo - イタリア語翻訳
+・deckenid - ドイツ語翻訳
+・Farmacias São João - ポルトガル語翻訳
+・nextrg - ポーランド語翻訳
+・是鱼猫猫~！ - 簡体中国語翻訳
+
+
+次の言語の翻訳を手伝ってくれる方を募集しています。DiscordでDMを送ってください:
+フランス語、スペイン語。
+
+他のMODはこちら:
+https://steamcommunity.com/id/DiceID/myworkshopfiles/?appid=1281930
+
+公式アドオンはこちら:
+https://steamcommunity.com/sharedfiles/filedetails/?id=3019670863
+
+開発：Dice & Blooming Dragon
