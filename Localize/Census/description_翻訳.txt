@@ -1,0 +1,26 @@
+﻿概要：
+    このModは住居パネルを改修し、まだ出現していないタウンNPCを一覧で表示します。
+　　・「✓」出現条件がすでに満たされています。
+　　・「X」出現条件がまだ満たされていません。
+　　・「?」ゲーム側でまだタウンNPCの出現判定が行われていません。
+　　アイコンにカーソルを合わせることで、そのNPCの出現条件を確認できます。
+
+    判定は日が始まった約2分後に行われるため、判定が行われるまでは表示情報が最新でない可能性があります。
+    サーバーコンソールで『TownProgress』コマンドを使用すると、現在出現可能なタウンNPCを確認できます。
+   
+    また、住居パネル内でタウンNPCにカーソルを合わせることで、そのNPCの現在位置を示す矢印が表示されます。
+　  この機能はMod設定で切り替え可能です。
+
+Modサポート：
+    自作ModによってタウンNPCを追加する際に、本Mod内で表示させる出現条件を簡単に追加できます。
+    
+    もしフォーマット付きの LocalizedText を使用したい場合は、Mod.PostSetupContent内で次の呼び出しを行ってください。
+　　＝＝＝
+　　　Census.Call(
+　　　    "TownNPCCondition",
+    　　　ModContent.NPCType<ExamplePerson>(),
+  　　　  ModContent.GetInstance<ExamplePerson>()
+      　　　  .GetLocalization("Census.SpawnCondition")
+　　　        .WithFormatArgs(args)
+　　　);
+　　＝＝＝
