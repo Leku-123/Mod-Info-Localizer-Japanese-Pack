@@ -20,4 +20,4 @@ Mod Info Localizer Japanese Packを有効化することで、対応済みのMod
 本Mod、およびプロジェクトは翻訳へのご協力を歓迎しております。
 対象となるModを明記いただいた上で、翻訳テキストファイルをプルリクエストしてください。
 
-[repo:TranslatedMods.csv]: https://github.com/External-Localizer/TMLHonyaku/blob/main/TranslatedMods.csv
+[repo:TranslatedMods.csv]: [https://github.com/External-Localizer/TMLHonyaku/blob/main/TranslatedMods.csv](https://github.com/Leku-123/Mod-Info-Localizer-Japanese-Pack/blob/main/TranslatedMods.csv)
