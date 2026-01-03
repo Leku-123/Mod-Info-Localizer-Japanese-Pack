@@ -1,0 +1,22 @@
+ゲーム内テキストを素早く機械翻訳する機能を提供します。
+他のMODによって追加されたテキストにも対応しています。
+
+[i:FallenStar] 機能
+
+1.アイテムのツールチップを即座に翻訳
+2.チャットメッセージを自動翻訳
+3.複数の翻訳APIに対応
+　- APIキー不要の無料翻訳APIも利用可能
+4,ホットキーで翻訳サイトを開く
+　- Steam内蔵ブラウザを使用してサイトを開くこともでき、手軽で高速です
+5.マウスカーソルが指しているテキストを自動検出して翻訳
+6.翻訳結果をキャッシュするため、ゲーム再起動後に再翻訳する必要はありません
+
+[i:ThePlan] 以下のオープンソースプロジェクトおよびユーザーに感謝します
+・akl7777777 - https://github.com/akl7777777
+
+・Newtonsoft.Json - https://github.com/JamesNK/Newtonsoft.Json
+
+・Watt Toolkit - https://github.com/BeyondDimension/SteamTools
+
+・划词翻译 - https://github.com/hcfyapp

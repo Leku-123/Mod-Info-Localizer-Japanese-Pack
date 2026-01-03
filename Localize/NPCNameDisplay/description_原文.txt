@@ -1,0 +1,37 @@
+NPC Name Display is a lightweight mod that simply shows NPC names above them.
+It displays names for enemies, town NPCs and critters.
+The brightness of the names and the range in which name display can be configured in-game.
+
+Be sure to check out my main work, the Vitality Mod, a somewhat large content mod.
+
+Patch notes:
+
+v1.4.4.9:
+
+- Updated to tModLoader 1.4.4
+- Removed the distance config
+
+v1.4.3:
+
+- Added a config to toggle name displaying by distance
+
+- Worm enemies now only show their name above their heads
+
+v1.4.2:
+
+- Added a config to toggle names being affected by light level
+
+v1.4.1:
+
+- Names now react to the light level the NPC is in to make the mod seem not as cheesy
+(In other words names are invisible in pitch black areas)
+
+- Enemies now have their actual name
+(In other words green slimes no longer displays 'Blue Slime')
+
+- Town NPCs now show only their First name
+
+
+v1.4:
+
+- Updated to tModLoader 1.4
